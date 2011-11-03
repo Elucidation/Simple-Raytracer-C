@@ -1,0 +1,1 @@
+SimplerVector.exe > closeUpOutput.txt

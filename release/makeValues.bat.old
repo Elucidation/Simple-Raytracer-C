@@ -1,0 +1,3 @@
+@echo off
+SimplerVector.exe > values.txt
+echo "Done"

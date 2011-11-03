@@ -1,0 +1,12 @@
+debug/*
+SimplerVector/Debug/*
+SimplerVector/Release/*
+*.vcproj
+*.user
+*.idb
+*.dep
+*.obj
+*.manifest
+*.sln
+*.suo
+*.ncb
